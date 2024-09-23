@@ -2,7 +2,7 @@
 
 <h3>I am actively seeking an entry-level position in cybersecurity, such as Cybersecurity Analyst, SOC Analyst, or Cyber Incident Responder, where I can apply my cybersecurity knowledge and skills.</h3>
 
-<h3>I hold a B.S. degree in Cybersecurity and several related certifications. Over the years, I have gained hands-on lab experience through various online platforms and my own home labs, practicing and developing my skills with industry-standard tools and techniques for security analysis, SOC operations, and incident handling. </h3>
+<h3>I hold a B.S. degree in Cybersecurity and several related certifications. Over the years, I have gained extensive and in-depth hands-on lab experience through various online platforms and my own home labs, practicing and developing my skills with industry-standard tools and techniques for security analysis, SOC operations, and incident handling. </h3>
 
 <h3>I am certified by:</h3>
 <p align="center">
