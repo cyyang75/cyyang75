@@ -9,11 +9,6 @@
 <img src="https://i.imgur.com/h3EZJ2K.png" alt="My Certifications"/>
 </p>
 
-<h2>🤳Connect with me:</h2>
-<a href="https://www.linkedin.com/in/chuanyi-yang" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
-
 <hr>
 
 <h4>Hands-on lab experiences are crucial for cybersecurity professionals as they bridge the gap between theoretical knowledge and real-world application.</h4>
@@ -33,3 +28,11 @@
 <h4>• <u><a href="https://github.com/cyyang75/my-homelabs" target="_blank">My Cybersecurity Homelabs</a></u></h4>
 
 <h4>As I continue studying and working in the field of cybersecurity, my list of lab experiences will keep growing, along with my skills and expertise.</h4>
+
+<hr>
+<h2>🤳Connect with me:</h2>
+<a href="https://www.linkedin.com/in/chuanyi-yang" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn">
+</a>
+
+<hr>
