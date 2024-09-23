@@ -1,9 +1,9 @@
 ## Hi, I'm Chuanyi Yang, a Cybersecurity Analyst and IT Professional.👨‍💻 
 
-### I hold a B.S. degree and several certifications in Cybersecurity. I am currently actively seeking an entry-level role such as Cybersecurity Analyst, SOC Analyst, or Cyber Incident Responder, where I can apply my cybersecurity expertise. 
+### I hold a B.S. degree in Cybersecurity and several related certifications. I am actively seeking an entry-level role, such as Cybersecurity Analyst, SOC Analyst, or Cyber Incident Responder, where I can apply my cybersecurity knowledge and skills.
  
 ## 🤳Connect with me:
-https://www.linkedin.com/in/chuanyi-yang
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chuanyi-yang)
 
 ---
 
