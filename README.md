@@ -2,6 +2,9 @@
 
 <h3>I hold a B.S. degree in Cybersecurity and several related certifications. I am actively seeking an entry-level role, such as Cybersecurity Analyst, SOC Analyst, or Cyber Incident Responder, where I can apply my cybersecurity knowledge and skills.</h3>
 
+<h2>I am certified by:</h2>
+<img src="https://i.imgur.com/h3EZJ2K.png" alt="My Certifications">
+
 <h2>🤳Connect with me:</h2>
 <a href="https://www.linkedin.com/in/chuanyi-yang" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn">
