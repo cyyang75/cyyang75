@@ -11,16 +11,16 @@
 
 #### Below are some projects and lab experiences I have completed or am currently working on. These labs provide me with opportunities to work directly with tools, techniques, and scenarios commonly encountered in the field:
 
-#### • [ACI Learning Practice Labs](https://github.com/cyyang75/aci-practice-labs) (16 labs on Computer Networking, Network Security, and System and Communication Security)
+#### • <u>[ACI Learning Practice Labs](https://github.com/cyyang75/aci-practice-labs)</u> (16 labs on Computer Networking, Network Security, and System and Communication Security)
 
-#### • [InfoSec Learning Labs](https://github.com/cyyang75/infosec-learning-labs) (19 labs on Operating System Security and Network Defense)
+#### • <u>[InfoSec Learning Labs](https://github.com/cyyang75/infosec-learning-labs)</u> (19 labs on Operating System Security and Network Defense)
 
-#### • [CompTIA CertMaster Labs for Security+ (Exam SY0-701)](https://github.com/cyyang75/comptia-certmaster-labs-for-security): 37 labs
+#### • <u>[CompTIA CertMaster Labs for Security+ (Exam SY0-701)](https://github.com/cyyang75/comptia-certmaster-labs-for-security)</u>: 37 labs
 
-#### • [CompTIA CertMaster Labs for CySA+ (Exam CS0-003)](https://github.com/cyyang75/comptia-certmaster-labs-for-cysa): 33 labs
+#### • <u>[CompTIA CertMaster Labs for CySA+ (Exam CS0-003)](https://github.com/cyyang75/comptia-certmaster-labs-for-cysa)</u>: 33 labs
 
-#### • [Hack The Box (HTB) SOC Analyst Path Labs](https://github.com/cyyang75/hackthebox-cdsa) (15 modules)
+#### • <u>[Hack The Box (HTB) SOC Analyst Path Labs](https://github.com/cyyang75/hackthebox-cdsa)</u> (15 modules)
 
-#### • [My Cybersecurity Homelabs](https://github.com/cyyang75/my-homelabs)
+#### • <u>[My Cybersecurity Homelabs](https://github.com/cyyang75/my-homelabs)</u>
 
 #### As I continue studying and working in the field of cybersecurity, my list of lab experiences will keep growing, along with my skills and expertise.
