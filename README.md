@@ -3,11 +3,7 @@
 ### I hold a B.S. degree in Cybersecurity and several related certifications. I am actively seeking an entry-level role, such as Cybersecurity Analyst, SOC Analyst, or Cyber Incident Responder, where I can apply my cybersecurity knowledge and skills.
  
 ## 🤳Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuanyi-yang)
-
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/chuanyi-yang)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chuanyi-yang)
 
 ---
 
