@@ -25,7 +25,7 @@
 
 <h4>• <u><a href="https://github.com/cyyang75/hackthebox-cdsa" target="_blank">Hack The Box (HTB) SOC Analyst Path Labs</a></u> (15 modules)</h4>
 
-<h4>• <u><a href="https://github.com/cyyang75/hacksplaining-web-application-security" target="_blank">Hacksplaining Web Application Security (39 lessons) </a></u></h4>
+<h4>• <u><a href="https://github.com/cyyang75/hacksplaining-web-application-security" target="_blank">Hacksplaining Web Application Security</a> (39 lessons) </u></h4>
 
 <h4>• <u><a href="https://github.com/cyyang75/metasploit-free-online-ethical-hacking-course" target="_blank">Metasploit Free Online Ethical Hacking Course</a></u></h4>
 
