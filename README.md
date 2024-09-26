@@ -25,6 +25,10 @@
 
 <h4>• <u><a href="https://github.com/cyyang75/hackthebox-cdsa" target="_blank">Hack The Box (HTB) SOC Analyst Path Labs</a></u> (15 modules)</h4>
 
+<h4>• <u><a href="https://github.com/cyyang75/hacksplaining-web-application-security" target="_blank">Hacksplaining Web Application Security (39 lessons) </a></u></h4>
+
+<h4>• <u><a href="https://github.com/cyyang75/metasploit-free-online-ethical-hacking-course" target="_blank">Metasploit Free Online Ethical Hacking Course</a></u></h4>
+
 <h4>• <u><a href="https://github.com/cyyang75/my-homelabs" target="_blank">My Cybersecurity Homelabs</a></u></h4>
 
 <h4>As I continue studying and working in the field of cybersecurity, my list of lab experiences will keep growing, along with my skills and expertise.</h4>
