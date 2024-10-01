@@ -17,7 +17,7 @@
 
 <h4>• <u><a href="https://github.com/cyyang75/aci-practice-labs" target="_blank">ACI Learning Practice Labs</a></u> (16 labs on Computer Networking, Network Security, and System and Communication Security)</h4>
 
-<h4>• <u><a href="https://github.com/cyyang75/infosec-learning-labs" target="_blank">InfoSec Learning Labs</a></u> (19 labs on Operating System Security and Network Defense)</h4>
+<h4>• <u><a href="https://github.com/cyyang75/infosec-learning-labs" target="_blank">InfoSec Learning Labs</a></u> (19 labs on Operating System Security, Application Security and Network Defense)</h4>
 
 <h4>• <u><a href="https://github.com/cyyang75/comptia-certmaster-labs-for-security" target="_blank">CompTIA CertMaster Labs for Security+ (Exam SY0-701)</a></u>: 37 labs</h4>
 
