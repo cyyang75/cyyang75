@@ -11,7 +11,7 @@
 
 <hr>
 
-<h4>Hands-on lab experiences are crucial for cybersecurity professionals as they bridge the gap between theoretical knowledge and real-world application.</h4>
+<h4>Hands-on lab experiences are crucial for cybersecurity professionals as they bridge the gap between theoretical knowledge and real-world application. I continually develop and enhance my skills through various online platforms and personal home labs. I have completed over 100 lab experiences so far. </h4>
 
 <h4>Below are some projects and lab experiences I have completed or am currently working on. These labs provide me with opportunities to work directly with tools, techniques, and scenarios commonly encountered in the field:</h4>
 
