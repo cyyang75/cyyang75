@@ -11,7 +11,9 @@
 
 <hr>
 
-<h4>Hands-on lab experiences are crucial for cybersecurity professionals as they bridge the gap between theoretical knowledge and real-world application. I continually develop and enhance my skills through various online platforms and personal home labs. I have completed over 100 lab experiences so far. Below are some projects and lab experiences I have completed or am currently working on. These labs provide me with opportunities to work directly with tools, techniques, and scenarios commonly encountered in the field:</h4>
+<h4>Hands-on lab experiences are crucial for cybersecurity professionals as they bridge the gap between theoretical knowledge and real-world application. I continually develop and enhance my skills through various online platforms and personal home labs. I have completed over 100 lab experiences so far. </h4>
+  
+<h4>Below are some projects and lab experiences I have completed or am currently working on. These labs provide me with opportunities to work directly with tools, techniques, and scenarios commonly encountered in the field:</h4>
 
 <h4>• <u><a href="https://github.com/cyyang75/aci-practice-labs" target="_blank">ACI Learning Practice Labs</a></u> (16 labs on Computer Networking, Network Security, and System and Communication Security)</h4>
 
