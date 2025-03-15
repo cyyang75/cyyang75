@@ -6,7 +6,7 @@
 
 <h3>I am certified by:</h3>
 <p align="center">
-<img src="https://i.imgur.com/h3EZJ2K.png" alt="My Certifications"/>
+<img src="./pic/mycert.png" alt="My Certifications"/>
 </p>
 
 <hr>
